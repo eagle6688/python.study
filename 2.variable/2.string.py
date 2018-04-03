@@ -52,3 +52,5 @@ print('Hello World!'.capitalize())
 # Center the string
 print(str.center(100, '*'))
 
+# Center
+print(errHTML.count('FORM', 0, len(errHTML)))
